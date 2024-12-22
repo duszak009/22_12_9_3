@@ -1,4 +1,4 @@
-#Solution for task:
+# Solution for task:
 
 Proszę stworzyć klasę Account która będzie miała pola: owner, balance (typu int) oraz
 accountNumber.
